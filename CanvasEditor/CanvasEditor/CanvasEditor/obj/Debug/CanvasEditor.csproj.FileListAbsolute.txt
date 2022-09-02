@@ -1,0 +1,16 @@
+C:\Users\wodnr\OneDrive\바탕 화면\Canvas\CanvasEditor\CanvasEditor\CanvasEditor\bin\Debug\CanvasEditor.exe.config
+C:\Users\wodnr\OneDrive\바탕 화면\Canvas\CanvasEditor\CanvasEditor\CanvasEditor\bin\Debug\CanvasEditor.exe
+C:\Users\wodnr\OneDrive\바탕 화면\Canvas\CanvasEditor\CanvasEditor\CanvasEditor\bin\Debug\CanvasEditor.pdb
+C:\Users\wodnr\OneDrive\바탕 화면\Canvas\CanvasEditor\CanvasEditor\CanvasEditor\obj\Debug\CanvasEditor.csproj.AssemblyReference.cache
+C:\Users\wodnr\OneDrive\바탕 화면\Canvas\CanvasEditor\CanvasEditor\CanvasEditor\obj\Debug\CanvasEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\wodnr\OneDrive\바탕 화면\Canvas\CanvasEditor\CanvasEditor\CanvasEditor\obj\Debug\MainWindow.g.cs
+C:\Users\wodnr\OneDrive\바탕 화면\Canvas\CanvasEditor\CanvasEditor\CanvasEditor\obj\Debug\App.g.cs
+C:\Users\wodnr\OneDrive\바탕 화면\Canvas\CanvasEditor\CanvasEditor\CanvasEditor\obj\Debug\CanvasEditor_MarkupCompile.cache
+C:\Users\wodnr\OneDrive\바탕 화면\Canvas\CanvasEditor\CanvasEditor\CanvasEditor\obj\Debug\CanvasEditor_MarkupCompile.lref
+C:\Users\wodnr\OneDrive\바탕 화면\Canvas\CanvasEditor\CanvasEditor\CanvasEditor\obj\Debug\MainWindow.baml
+C:\Users\wodnr\OneDrive\바탕 화면\Canvas\CanvasEditor\CanvasEditor\CanvasEditor\obj\Debug\CanvasEditor.g.resources
+C:\Users\wodnr\OneDrive\바탕 화면\Canvas\CanvasEditor\CanvasEditor\CanvasEditor\obj\Debug\CanvasEditor.Properties.Resources.resources
+C:\Users\wodnr\OneDrive\바탕 화면\Canvas\CanvasEditor\CanvasEditor\CanvasEditor\obj\Debug\CanvasEditor.csproj.GenerateResource.cache
+C:\Users\wodnr\OneDrive\바탕 화면\Canvas\CanvasEditor\CanvasEditor\CanvasEditor\obj\Debug\CanvasEditor.csproj.CoreCompileInputs.cache
+C:\Users\wodnr\OneDrive\바탕 화면\Canvas\CanvasEditor\CanvasEditor\CanvasEditor\obj\Debug\CanvasEditor.exe
+C:\Users\wodnr\OneDrive\바탕 화면\Canvas\CanvasEditor\CanvasEditor\CanvasEditor\obj\Debug\CanvasEditor.pdb
